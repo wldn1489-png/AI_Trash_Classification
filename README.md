@@ -1,3 +1,25 @@
+# AI 기반 쓰레기 분류 애플리케이션
+
+## 프로젝트 소개
+이미지 데이터를 분석하여 쓰레기의 종류를 분류하는 AI 애플리케이션입니다.
+
+## 개발 인원
+- 4명
+
+## 담당 역할
+- 쓰레기 이미지 데이터 수집 및 정리
+- 프로젝트 기능 테스트 및 결과 검증
+- 팀원들과 함께 일부 코드 작성 및 수정
+- GitHub를 활용한 협업 및 버전 관리
+
+## 사용 기술
+- Python
+- Deep Learning
+- GitHub
+- Image Processing
+
+※ 본 프로젝트는 TACO Dataset을 활용하여 개발되었습니다.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/logonav.png" width="25%"/>
 </p>
